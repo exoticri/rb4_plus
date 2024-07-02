@@ -1,5 +1,5 @@
 # Tools
-Useful for authors/other contributors. Written with Python 3.10.
+Useful for authors/other contributors. Written with Python 3.10 by [rkjiv](https://github.com/rjkiv).
 
 # Auto-insert your pro upgrade into RPCS3 for testing
 Assuming you have a new midi/dta in the appropriate Pro Strings folder ready to go, this script allows you to automatically place your upgrade into RPCS3 so you can get right into testing.
