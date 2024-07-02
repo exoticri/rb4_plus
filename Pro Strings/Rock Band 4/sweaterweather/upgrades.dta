@@ -1,0 +1,11 @@
+(sweaterweather
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/sweaterweather_plus.mid")
+   (rank
+      (real_guitar 267)
+      (real_bass 1)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(strings_author "Aloquendiar")
+)
