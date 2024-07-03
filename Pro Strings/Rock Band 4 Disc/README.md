@@ -8,5 +8,5 @@
 | Dream Genie | Lightning Bold | G: E Standard<br>B: E Standard | same as in-game |
 | All Over You | Live | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |
 | Your Love | The Outfield | G: E Standard<br>B: E Standard | same as in-game |
-| Still Int You | Paramore | G: Drop D<br>B: Db Standard | G: same as in-game<br> B: E Standard | 
+| Still Int You | Paramore | G: Drop D<br>B: E Standard | G: same as in-game<br> B: Db Standard | 
 | My God Is the Sun | Queens of the Stone Age | G: E Standard<br>B: E Standard | same as in-game |
