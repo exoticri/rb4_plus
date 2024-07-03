@@ -1,0 +1,71 @@
+(heatwaves
+   (name "Heat Waves")
+   (artist "Glass Animals")
+   (master 1)
+   (context
+	{do
+		{$world iterate PostProc $p
+			{$p set saturation 40}
+			{$p set hue -20}}
+	}
+	)
+   (song
+      (name         "songs/heatwaves/heatwaves")
+      (tracks
+         ((drum (0 1))
+          (bass (2 3))
+          (guitar (4 5))
+          (vocals (6 7))
+          (vocals (8 9))
+         )
+      )
+      (vocal_parts 3)
+      (pans         (-1.0  1.0 -1.0  1.0 -1.0  1.0 -1.0  1.0 -1.0  1.0))
+      (vols         (-0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0))
+      (cores        ( -1   -1   -1   -1    1    1   -1   -1   -1   -1 ))
+      (drum_solo
+         (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+      )
+      (drum_freestyle
+         (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+      )
+      (midi_file "songs/heatwaves/heatwaves.mid")
+      ;(hopo_threshold 170)
+   )
+   (song_scroll_speed 2300)
+   (bank sfx/handclap_bank.milo)
+   (drum_bank sfx/kit05_bank.milo)
+   (anim_tempo 16)
+   (song_length 242024)
+   (preview 47521 77521)
+   (rank
+      (drum 151)
+      (guitar 267)
+      (bass 30)
+      (vocals 175)
+      (keys 50)
+      (real_keys 50)
+      (band 215)
+   )
+   (genre 'alternative')
+   (vocal_gender male)
+   (version 30)
+   (format 4)
+   (album_art TRUE)
+   (year_released 2020)
+   (rating 1)
+   (sub_genre 'subgenre_other')
+   (song_id 1020576)
+   (tuning_offset_cents 0.0)
+   (game_origin 'rb4_dlc')
+   (album_track_number 14)
+   (album_name "Dreamland")
+   (decade 'the20s')
+   (downloaded TRUE)
+   (base_points 0)
+   (keys_author "Linos Melendi")
+   (vocal_tonic_note 11)
+   (song_tonality 0) ;- Only set this for pro guitar upgrades and if you know what you are doing
+   ;(encoding latin1); OPTIONAL, required if name, artist, album_name, or pack_name contain non-ascii characters
+)
+
