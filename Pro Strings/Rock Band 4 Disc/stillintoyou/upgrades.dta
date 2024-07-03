@@ -6,6 +6,6 @@
       (real_bass 267)
    )
    (real_guitar_tuning (-2 0 0 0 0 0))
-   (real_bass_tuning (-3 -3 -3 -3))
+   (real_bass_tuning (0 0 0 0 ))
    ;(strings_author "Augusto & Ruggy")
 )
