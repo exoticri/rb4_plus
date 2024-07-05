@@ -2,6 +2,7 @@
 
 | Song Title | Artist(s) | Pro G/B Tunings (In-Game) | Pro G/B Tunings (Real) |
 | :--------: | :-------: | :---------------: | :------------: |
+| What's Up? | 4 Non Blondes | G: E Standard<br>B: E Standard | same as in-game |
 | Short Skirt/Long Jacket | Cake | G: E Standard<br>B: E Standard | same as in-game |
 | Ain't Messin 'Round | Gary Clark Jr. | G: E Standard<br>B: E Standard | same as in-game |
 | Somebody Told Me | The Killers | G: E Standard<br>B: E Standard | G: Eb Standard<br>B: Eb Standard |

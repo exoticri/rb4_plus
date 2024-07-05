@@ -1,0 +1,12 @@
+(whatsup
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/whatsup_plus.mid")
+   (song_id 5023)
+   (rank
+      (real_guitar 168)
+      (real_bass 322)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(rb3_plus_author Carl Mylo, Ruggy (QC))
+)
