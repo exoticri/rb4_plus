@@ -89,9 +89,9 @@
    )
    ('genre' 'alternative')
    ('vocal_gender' 'female')
-   ('version' 10)
+   ('version' 30)
    (keys_author "Carl Mylo, Linos Melendi (QC)")
-   ('format' 30)
+   ('format' 10)
    ('album_art' 1)
    ('year_released' 1992)
    ('rating' 1)
@@ -109,5 +109,6 @@
    (downloaded TRUE)
    ('base_points' 0)
    (vocal_tonic_note 9)
+   (song_tonality 0)
 )
 
