@@ -1,0 +1,61 @@
+(knightsofcydonia
+   (name "Knights of Cydonia")
+   (artist "Muse")
+   (master TRUE)
+   (song_id 11020698)
+   (song
+      (name "songs/knightsofcydonia/knightsofcydonia")
+      (tracks
+         (
+            ; RB3 channel tracking
+            (drum (0 1))
+            (guitar (4 5))
+            (vocals (6 7))
+            (bass (8 9))
+            (keys (10 11))
+         )
+      )
+      (vocal_parts 3)
+      ; RB3 audio mixing
+      ;          DRUM      BASS_RB2   GUITAR    VOCALS     BASS_RB3    KEYS     BACKING  
+      (pans  (-1.0  1.0  -1.0   1.0 -1.0  1.0 -1.0  1.0  -1.0   1.0 -1.0  1.0 -1.0  1.0))
+      (vols  (-0.0 -0.0 -96.0 -96.0 -0.0 -0.0 -0.0 -0.0  -0.0  -0.0 -0.0 -0.0 -2.0 -2.0))
+      (cores ( -1   -1    -1    -1    1    1   -1   -1    -1    -1   -1   -1   -1   -1 ))
+      (drum_solo (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue)))
+   )
+   (bank sfx/tambourine_bank.milo)
+   (drum_bank sfx/kit01_bank.milo)
+   (anim_tempo 32)
+   (song_scroll_speed 2300)
+   (preview 75329 105329)
+   (song_length 350038)
+   (rank
+      (drum 400)
+      (guitar 415)
+      (bass 310)
+      (vocals 350)
+      (keys 445) ; 5-lane key chart by Linos
+      (real_keys 445) ; initial pro key chart by RK, final edits by Linos
+      ;(real_guitar 455) ; pro string charts by RK
+      ;(real_bass 355)
+      (band 300)
+   )
+   (solo (guitar drum keys vocal_percussion))
+   (format 10)
+   (version 30)
+   (game_origin rb4_dlc)
+   (rating 1)
+   (genre alternative)
+   (vocal_gender male)
+   (year_released 2006)
+   (album_art TRUE)
+   (album_name "Black Holes and Revelations")
+   (album_track_number 11)
+   (vocal_tonic_note 4)
+   (song_tonality 0)
+   ;(strings_author "RK")
+   (keys_author "RK, Linos")
+   ;(real_guitar_tuning (0 0 0 0 0 0))
+   ;(real_bass_tuning (0 0 0 0))
+)

@@ -1,0 +1,71 @@
+(starlight2
+   (name "Starlight")
+   (artist "Muse")
+   (master 1)
+   (context 2000)
+   (song
+      (name         "songs/starlight2/starlight2")
+      (tracks
+         (
+            (drum (0 1))
+            (bass (2 3))
+            (guitar (4 5))
+            (vocals (6 7))
+            (keys (8 9))
+         )
+      )
+
+      (vocal_parts 2)
+
+      (pans         (-1.0  1.0 -1.0  1.0 -1.0  1.0 -1.0  1.0 -1.0  1.0	-1.0  1.0))
+      (vols         (-0.0 -0.0 -1.0 -1.0 -0.0 -0.0 -1.7 -1.7 -3.0 -3.0  -3.0 -3.0))
+      (cores        ( -1   -1   -1   -1    1    1   -1   -1   -1   -1 	 -1   -1))
+
+      (drum_solo
+         (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+      )
+      (drum_freestyle
+         (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+      )
+      ;(hopo_threshold 170)
+   )
+   (song_scroll_speed 2300)
+   (bank sfx/tambourine_bank.milo)
+   (drum_bank sfx/kit01_bank.milo)
+   (anim_tempo 32)
+   (song_length 245265)
+   (preview 59245 89245)
+   (rank
+      (drum 145)
+      (guitar 225)
+      (bass 225)
+      (vocals 220)
+	   (keys 435) ; 5-lane key chart by C0Assassin
+      (real_keys 435) ; Pro Keys by by C0Assassin
+	   ;(real_guitar 60)
+      ;(real_bass 235)
+      (band 225)
+   )
+   (genre 'alternative')
+   (vocal_gender male)
+   (version 30)
+   (format 10)
+   (album_art TRUE)
+   (year_released 2006)
+   (rating 2)
+   (song_id 11020695)
+   (tuning_offset_cents 0.0)
+   (game_origin 'rb4_dlc')
+   (album_track_number 2)
+   (album_name "Black Holes and Revelations")
+   (decade 'the00s')
+   (downloaded TRUE)
+   (base_points 0)
+   (vocal_tonic_note 11)
+   ;(real_guitar_tuning (0 0 0 0 0 0))
+   ;(real_bass_tuning (-2 0 0 0)) ; real tuning is Eb Drop Db, in-game is Drop D
+   (song_tonality 0) ; Only set this for pro guitar upgrades and if you know what you are doing
+   ;(strings_author "RK")
+   ;(keys_author "C0Assassin")
+   ;(encoding latin1); OPTIONAL, required if name, artist, album_name, or pack_name contain non-ascii characters
+)

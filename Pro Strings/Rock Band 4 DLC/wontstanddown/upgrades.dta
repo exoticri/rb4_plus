@@ -1,0 +1,12 @@
+(wontstanddown
+   (upgrade_version 1)
+   (song_id 11020694)
+   (midi_file "songs_upgrades/wontstanddown_plus.mid")
+   (rank
+      (real_guitar 301) ; Pro Instruments by RK
+      (real_bass 281)  ; Pro Instruments by RK
+   )
+   (real_guitar_tuning (-5 0 2 0 0 0)) ; BAEGBE
+   (real_bass_tuning (-5 0 0 0)) ; the only string played is tuned to B, the other strings don't matter
+   ;(strings_author "RK")
+)
