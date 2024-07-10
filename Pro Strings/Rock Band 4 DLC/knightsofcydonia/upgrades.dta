@@ -1,0 +1,12 @@
+(knightsofcydonia
+   (upgrade_version 1)
+   (song_id 11020698)
+   (midi_file "songs_upgrades/knightsofcydonia_plus.mid")
+   (rank
+      (real_guitar 455) ; pro string charts by RK
+      (real_bass 355)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(strings_author "RK")
+)
