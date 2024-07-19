@@ -66,8 +66,8 @@
    (decade the00s)
    (downloaded TRUE)
    (base_points 0))
-   (vocal_tonic_note 4)
-   (song_tonality 0)
+   (vocal_tonic_note 10)
+   (song_tonality 1)
    (keys_author "Bansheeflyer, BowlsforRick")
 )
 
