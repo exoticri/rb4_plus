@@ -56,7 +56,7 @@
    (decade 'the10s')
    (downloaded TRUE)
    (base_points 0)
-   (vocal_tonic_note 3)
+   (vocal_tonic_note 5)
    (keys_author "JIManji, Ultimate_MANG0, BowlsforRick")
    (song_tonality 1) - Only set this for pro guitar upgrades and if you know what you are doing
    ;(encoding latin1); OPTIONAL, required if name, artist, album_name, or pack_name contain non-ascii characters
