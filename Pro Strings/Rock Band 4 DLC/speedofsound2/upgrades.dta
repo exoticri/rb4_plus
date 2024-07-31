@@ -1,0 +1,12 @@
+(speedofsound2
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/speedofsound2_plus.mid")
+   (song_id 1020518)
+   (rank
+      (real_guitar 262)
+      (real_bass 226)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   ;(strings_author JDK)
+)
