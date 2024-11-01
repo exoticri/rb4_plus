@@ -1,0 +1,12 @@
+(sweaterweather2
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/sweaterweather2_plus.mid")
+   (song_id 1020167)
+   (rank
+      (real_guitar 368)
+      (real_bass 131)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is D Standard, in-game is E Standard
+   (real_bass_tuning (0 0 0 0)) ; real tuning is D Standard, in-game is E Standard
+   ;(strings_author "Aloquendiar, CarlMylo (QC), Ruggy (QC)")
+)
