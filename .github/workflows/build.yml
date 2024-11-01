@@ -28,7 +28,7 @@ jobs:
           mkdir output
           ./dependencies/onyx-20240418-linux-x64.AppImage stfs _tmp --to output/RB4PlusProPack --game rb3
       - name: Upload result
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: RB4PlusProPack
           path: |
