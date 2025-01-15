@@ -1,0 +1,67 @@
+(countingstars
+   (name "Counting Stars")
+   (artist "OneRepublic")
+   (master 1)
+   (context 2000)
+   (song
+      (name         "songs/countingstars/countingstars")
+      (tracks
+         ((drum (0 1))
+          (bass (2 3))
+          (guitar (4 5))
+          (vocals (6 7))
+          (keys (8 9))
+         )
+      )
+
+      (vocal_parts 3)	; OPTIONAL but REQUIRED for vocal harmony
+	  (crowd_channels 10 11)
+	  
+      (pans         (-1.0  1.0 -1.0  1.0 -1.0  1.0 -1.0  1.0 -1.0  1.0 -1.0  1.0))
+      (vols         (-0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -1.4 -1.4))
+      (cores        ( -1   -1   -1   -1    1    1   -1   -1   -1   -1   -1   -1))
+
+      (drum_solo
+         (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+      )
+      (drum_freestyle
+         (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+      )
+      (midi_file "songs/countingstars/countingstars.mid")
+      ;(hopo_threshold 170)
+   )
+   (song_scroll_speed 2300)
+   (bank sfx/tambourine_bank.milo)
+   ;(drum_bank sfx/kit01_bank.milo)
+   (anim_tempo 32)
+   (song_length 259761)
+   (preview 77795 107795)
+   (rank
+      (drum 353)
+      (guitar 233)
+      (bass 159)
+      (vocals 321)
+      (keys 160)
+      (real_keys 160)
+      (band 269)
+   )
+   (genre 'poprock')
+   (vocal_gender male)
+   (version 30)
+   (format 4)
+   (album_art TRUE)
+   (year_released 2013)
+   (rating 1)
+   (song_id 1020164)
+   (tuning_offset_cents 0.0)
+   (game_origin 'rb4_dlc')
+   (album_track_number 1)
+   (album_name "Native")   		; OPTIONAL  (e.g. for covers)
+   (decade 'the10s')
+   (downloaded TRUE)
+   (base_points 0)
+   (vocal_tonic_note 1)		; REQUIRED - VOX team - set this to correct note!
+   (song_tonality 1)			; REQUIRED - VOX team - 0 = major, 1 = minorfor all RB3 songs
+   ;(encoding latin1); OPTIONAL, required if name, artist, album_name, or pack_name contain non-ascii characters
+   (keys_author "Linos Melendi")
+)
