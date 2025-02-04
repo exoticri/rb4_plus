@@ -1,0 +1,116 @@
+(
+   'youmakelovingfun'
+   (
+      'name'
+      "You Make Loving Fun"
+   )
+   (
+      'artist'
+      "Fleetwood Mac"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/youmakelovingfun/youmakelovingfun"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+            (
+               'keys'
+               (7 8)
+            )
+         )
+      )
+      (vocal_parts 3)
+	  (crowd_channels 9 10)
+	  (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -2.5 2.5)
+      )
+      (
+         'vols'
+         (-1.0 -1.0 -2.5 -0.0 -0.0 -0.0 -0.0 -0.5 -0.5 -1.5 -1.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/youmakelovingfun/youmakelovingfun.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 221930)
+   ('preview' 51792 81792)
+   (solo guitar)
+   (
+      'rank'
+      ('vocals' 386)
+      ('bass' 220)
+      ('guitar' 176)
+      ('drum' 142)
+      (keys 280)
+      (real_keys 280)
+      ('band' 195)
+   )
+   ('genre' 'classicrock')
+   (author "Harmonix, Rhythm Authors")
+   ('vocal_gender' 'female')
+   ('version' 30)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1977)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' 5015)
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb4')
+   (
+      'album_name'
+      "Rumours"
+   )
+   ('album_track_number' 8)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+   (vocal_tonic_note 7)
+   (song_tonality 1)
+   (keys_author "SonicSBL")
+)
