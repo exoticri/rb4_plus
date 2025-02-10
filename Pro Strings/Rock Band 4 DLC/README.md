@@ -10,3 +10,4 @@
 | Sweater Weather | The Neighbourhood | G: D Standard<br>B: D Standard | G: D Standard<br>B: D Standard |
 | Born To Be Wild | Steppenwolf | G: E Standard<br>B: E Standard | same as in-game | 
 | Hold the Line | Toto | G: E Standard<br>B: E Standard | same as in-game |
+| Stacy's Mom | Fountains of Wayne | G: E Standard<br>B: E Standard | same as in-game |
