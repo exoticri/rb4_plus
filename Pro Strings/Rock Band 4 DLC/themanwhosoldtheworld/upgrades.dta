@@ -1,0 +1,12 @@
+(themanwhosoldtheworld
+  (upgrade_version 1)
+  (midi_file "songs_upgrades/themanwhosoldtheworld_plus.mid")
+  (song_id 1020706)
+  (rank
+    (real_guitar 230)
+    (real_bass 220)
+  )
+  (real_guitar_tuning (0 0 0 0 0 0)) ; real tuning is Eb Standard, in-game is E Standard
+  (real_bass_tuning (0 0 0 0)) ; real tuning is Eb Standard, in-game is E Standard
+  ;(strings_author "Russ T Sprinkler (Guitar), brandunce (Bass)")
+)
