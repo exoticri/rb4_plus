@@ -1,0 +1,70 @@
+(bang
+   (name
+      "Bang!")
+   (artist
+      "AJR")
+   (master 1)
+   (song
+      (name 'songs/bang/bang')
+      (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (vocals
+               (6 7))
+            (keys
+               (8 9))))
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0))
+      (cores
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1))
+      (vocal_parts 3)
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue)))
+      (midi_file 'songs/bang/bang.mid'))
+   (song_scroll_speed 2300)
+   (bank
+      "sfx/handclap_bank.milo")
+   (drum_bank sfx/kit05_bank.milo)
+   (band_fail_cue band_fail_electro_keys.cue)
+   (anim_tempo kTempoMedium)
+   (song_length 173999)
+   (preview 91929 121929)
+   (rank
+      (band 243)
+      (guitar 176)
+      (drum 242)
+      (bass 135)
+      (vocals 279)
+      (keys 280)
+      (real_keys 253))
+   (genre poprock)
+   (vocal_gender male)
+   (version 30)
+   (format 10)
+   (album_art 1)
+   (year_released 2020)
+   (rating 2)
+   (sub_genre subgenre_other)
+   (song_id 1020516)
+   (tuning_offset_cents 0.0)
+   (vocal_tonic_note 1)
+   (game_origin rb4_dlc)
+   (album_name
+      "Bang!")
+   (album_track_number 1)
+   (ugc 0)
+   (author
+      "Harmonix, Rhythm Authors")
+   (keys_author "Aloquendiar, BowlsforRick") ;I'm worried about giving credit for this because of the hatred towards this band.
+   (context 2000)
+   (decade the10s))
