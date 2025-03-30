@@ -1,0 +1,12 @@
+(stacysmom
+   (upgrade_version 1)
+   (midi_file "songs_upgrades/stacysmom_plus.mid")
+   (song_id 1020547)
+   (rank
+      (real_guitar 208)
+      (real_bass 208)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; E Standard
+   (real_bass_tuning (0 0 0 0)) ; E Standard
+   ;(strings_author K.TURN)
+)
