@@ -32,6 +32,7 @@
    (anim_tempo 32)
    (song_length 174333)
    (preview 37432 67432)
+   (solo (keys))
    (rank
       (drum 152)
       (guitar 218)
